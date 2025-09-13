@@ -14,11 +14,13 @@ This project presents an interactive Car Sales Dashboard built in Power BI, usin
 - **Data Storytelling**: Building meaningful business insights through dashboards  
 
 ## 📂 Project Contents  
-- 📑 [View Dashboard (PDF)](https://github.com/Sandudil/Car-Sales-Dashboard/blob/main/Car%20sales%20dashboard.pdf)  
 - 📊 Dataset:  
   - [Audi](https://github.com/Sandudil/Car-Sales-Dashboard/blob/main/audi.csv)  
   - [BMW](https://github.com/Sandudil/Car-Sales-Dashboard/blob/main/bmw.csv)  
   - [Mercedes](https://github.com/Sandudil/Car-Sales-Dashboard/blob/main/merc.csv)  
+
+## 📑 View Dashboard  
+👉 [Car Sales Dashboard (PDF)](https://github.com/Sandudil/Car-Sales-Dashboard/blob/main/Car%20sales%20dashboard.pdf)  
 
 ---  
 
