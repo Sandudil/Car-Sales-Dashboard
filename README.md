@@ -1,4 +1,4 @@
-# 🚗 Car Sales Dashboard – Power BI  
+ # 🚗 Car Sales Dashboard – Power BI  
 This project presents an interactive Car Sales Dashboard built in Power BI, using the Kaggle *Used Cars Dataset (UK)*, which includes data from popular brands such as Ford, BMW, VW, Mercedes, Audi, and Toyota.  
 
 ## 📊 Key Features  
@@ -19,7 +19,10 @@ This project presents an interactive Car Sales Dashboard built in Power BI, usin
   - [BMW](https://github.com/Sandudil/Car-Sales-Dashboard/blob/main/bmw.csv)  
   - [Mercedes](https://github.com/Sandudil/Car-Sales-Dashboard/blob/main/merc.csv)  
 
-## 📑 View Dashboard  
+## 📸 Dashboard Preview  
+![Car Sales Dashboard](https://github.com/Sandudil/Car-Sales-Dashboard/blob/main/3IN1.jpg)  
+
+## 📑 View Full Dashboard  
 👉 [Car Sales Dashboard (PDF)](https://github.com/Sandudil/Car-Sales-Dashboard/blob/main/Car%20sales%20dashboard.pdf)  
 
 ---  
